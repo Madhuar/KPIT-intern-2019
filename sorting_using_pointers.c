@@ -1,5 +1,5 @@
 /*--------C programming-----
-FILENAME     : sorting_using_pointers
+FILENAME     : sorting_using_pointers.c
 DESCRIPTION  : C program to sort an array in ascending order using the concept of dynamic memory allocation
 CREATED BY   : Madhu AR
 EMPLOYEE ID  : 213383
@@ -31,7 +31,7 @@ void sort(int *localptr)
     }
 }
 
-/*------MAIN FUNCTION()------*/
+/*------MAIN FUNCTION()---------------*/
 /*------EXECUTION STARTS FROM HERE----*/
 int main()
 {
